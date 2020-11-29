@@ -1,0 +1,34 @@
+.writePerson{
+    display: flex;
+    justify-content: space-between;
+    width: 770px;
+    padding: 10px;
+    border: 3px solid #aea0ff;
+    border-radius: 20px;
+    margin: 10px 0 10px;
+}
+.unitControl{
+    margin-bottom: 10px;
+    width: 200px;
+}
+.unitControlBtn{
+    width: 200px;
+}
+.alertUnit{
+    margin-top: 5px;
+}
+.unitBtn{
+    margin: 10px;
+}
+.print{
+    margin-bottom: 5px;
+    width: 200px;
+}
+.addPerson{
+    display: flex;
+    justify-content: space-between;
+}
+.clearAll{
+    float: right;
+    margin-top: 24px;
+}

@@ -1,0 +1,34 @@
+th {
+    border: 1px solid black;
+    padding: 0 5px;
+    min-width: 300px;
+}
+td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 0 5px;
+    min-width: 25px;
+}
+.userTable {
+    margin: 10px auto;
+    font-size: 12px;
+    background-color: rgba(250, 250, 250, .9);
+}
+.userView{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background: url("./background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+}
+.error {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    height: 100vh;
+    padding-top: 25%;
+}

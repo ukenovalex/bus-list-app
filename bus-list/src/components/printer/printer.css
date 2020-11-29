@@ -1,0 +1,16 @@
+th {
+    border: 1px solid black;
+    padding: 0 5px;
+    min-width: 300px;
+}
+td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 0 5px;
+    min-width: 25px;
+}
+table {
+    margin: 0 auto;
+    margin-bottom: 750px;
+    font-size: 18px;
+}

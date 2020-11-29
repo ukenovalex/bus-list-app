@@ -1,0 +1,74 @@
+.bus676{
+    border: 2px solid black;
+    width: 250px;
+    height: 500px;
+    border-radius: 40px;
+    margin: 5px;
+    float: left;
+}
+.firstFive{
+    display: flex;
+    justify-content: space-between;
+    padding:  10px 20px 0;
+    flex-direction: row-reverse;
+}
+.sixSeven{
+    display: flex;
+    padding:  10px 20px 0;
+    justify-content: space-between;
+    width: 124px;
+}
+.eightNight{
+    display: flex;
+    padding:  10px 20px 0;
+    justify-content: space-between;
+    width: 130px;
+}
+.tenElev{
+    display: flex;
+    padding:  10px 20px 0;
+    justify-content: space-between;
+    width: 130px;
+}
+.eiNiTeEl{
+    display: flex;
+    justify-content: space-between;
+}
+.sTsTeTnTtT{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.sTsT{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 20px;
+    justify-content: space-between;
+    height: 130px;
+}
+.eTnTtT{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+    justify-content: space-between;
+    height: 160px;    
+}
+.lastPlaces{
+    display: flex;
+    justify-content: space-between;
+    padding:  10px 20px 0;
+}
+.bus676 button {
+    width: 40px;
+}
+.busTitle{
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 24px;
+}
+.twenTwo{
+ padding-top: 10px;
+}

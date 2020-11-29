@@ -1,0 +1,44 @@
+.flexInput{
+    display: flex;
+    justify-content: space-around;
+    width: 540px;
+}
+.form-control{
+    width: 300px !important;
+}
+.busses{
+    max-width: 90%;
+}
+.modal-dialog{
+    max-width: 90% !important;
+}
+.busContainer{
+    display: flex;
+    justify-content: center;
+}
+.selectPlace{
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(50, 53, 241); 
+}
+.gren{
+    background-color: #1e7e34;
+    padding: 5px;
+    color:white;
+}
+.blue{
+    background-color: #007bff;
+    padding: 5px;
+    color:white;
+}
+.red{
+    background-color: #bd2130;
+    padding: 5px;
+    color:white;
+}
+.help{
+    display: flex;
+    justify-content: center;
+}
